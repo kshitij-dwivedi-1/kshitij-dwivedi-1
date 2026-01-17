@@ -28,7 +28,7 @@ class KshitijDwivedi:
         self.username = "Kshitij191"
         self.location = "Lucknow, India"
         self.education = "B.Tech CSE (Data Science & Analytics) | Amity University"
-        self.cgpa = 7.98
+        self.cgpa = 8.11
         self.current_role = "Software Engineering Intern @ TCS iON"
         self.seeking = ["Full-time Opportunities", "Internships", "Collaborations"]
         
@@ -37,12 +37,12 @@ class KshitijDwivedi:
             "languages": ["Java", "Python", "C/C++", "SQL"],
             "frameworks": ["Node.js", "Express.js", "Angular", "TensorFlow", "Scikit-learn"],
             "databases": ["MySQL", "MongoDB"],
-            "tools": ["Git", "JIRA", "Docker"],
+            "tools": ["Git", "Docker"],
             "practices": ["OOP", "DSA", "SDLC", "REST APIs", "System Design"]
         }
     
     def currently_learning(self):
-        return ["Spring Boot", "System Design", "Advanced DSA", "Cloud Computing"]
+        return ["Spring Boot", Node.js", "Express.js", "Angular"]
     
     def fun_fact(self):
         return "I play the flute 🎵 and paint 🎨 to debug my mind!"
@@ -234,8 +234,8 @@ const currentFocus = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:2ECC71,100:E67E22&height=120&section=footer" width="100%"/>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kshitij191&color=4A90E2&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=kshitij-dwivedi-1&color=4A90E2&style=for-the-badge)
   
-  **⭐ From [Kshitij Dwivedi](https://github.com/Kshitij191) | Building the future, one commit at a time 🚀**
+  **⭐ From [Kshitij Dwivedi](https://github.com/kshitij-dwivedi-1) | Building the future, one commit at a time 🚀**
   
 </div>
