@@ -42,7 +42,7 @@ class KshitijDwivedi:
         }
     
     def currently_learning(self):
-        return ["Spring Boot", Node.js", "Express.js", "Angular"]
+        return ["Spring Boot", "Node.js", "Express.js", "Angular"]
     
     def fun_fact(self):
         return "I play the flute 🎵 and paint 🎨 to debug my mind!"
@@ -67,14 +67,18 @@ me = KshitijDwivedi()
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
@@ -89,28 +93,28 @@ me = KshitijDwivedi()
 <tr>
 <td width="50%">
 
-### 🍽️ [Restaurant Management Dashboard](https://github.com/Kshitij191)
-**Angular | Node.js | Express | MySQL**
+### 🧠 [Model Collapse Simulation & Filtration Pipeline](https://github.com/kshitij-dwivedi-1/Model-Collapse-Simulation-Filtration-Pipeline)
+**Python | PyTorch | Scikit-learn | Matplotlib**
 
-Full-stack application with role-based authentication, backend APIs for data processing, and optimized SQL queries for analytics dashboards.
+Simulates how AI-generated training data degrades model quality across iterative generations and applies KL-divergence & entropy-based filtration to recover performance.
 
 **Key Features:**
-- 🔐 JWT-based authentication
-- 📊 Real-time analytics
-- 🎯 RESTful API design
+- 📉 Multi-generation collapse trajectory tracking
+- 🔍 KL-divergence & entropy sample rejection
+- 📊 Auto-generated summary dashboard & figures
 
 </td>
 <td width="50%">
 
-### 📚 [Library Management System](https://github.com/Kshitij191)
-**Java | JDBC | MySQL | Servlets**
+### 🌿 [Mobile-First Crop Disease Detection](https://github.com/kshitij-dwivedi-1/Mobile-first-crop-disease-detection)
+**Flutter | Dart | TensorFlow Lite | Python**
 
-MVC architecture web application with role-based access, CRUD operations, and automated fine calculation system.
+Flutter mobile app (CropScan) that detects leaf diseases across 14 crop types using an on-device TFLite model — fully offline, with confidence scores and care advice.
 
 **Key Features:**
-- 🏗️ Clean architecture
-- 🔄 Transaction management
-- 📈 Automated reporting
+- 📷 Camera & gallery image input
+- 🔌 Fully offline on-device inference
+- 💊 Disease-specific treatment & prevention tips
 
 </td>
 </tr>
@@ -118,28 +122,44 @@ MVC architecture web application with role-based access, CRUD operations, and au
 <tr>
 <td width="50%">
 
-### 🎭 [Emotion Recognition System](https://github.com/Kshitij191)
-**Python | TensorFlow | Scikit-learn**
+### 📈 [Commodity & ETF Market Intelligence Dashboard](https://github.com/kshitij-dwivedi-1/Commodity-ETF-Market-Intelligence-Dashboard)
+**Python | MySQL | Power BI | Flask | APScheduler**
 
-ML-based speech emotion recognition using ensemble models (Random Forest, Gradient Boosting, Logistic Regression).
+ETL and analytics pipeline that fetches multi-source market data, normalizes it into a MySQL schema, detects anomalies, generates forecasts, and powers a live Power BI dashboard.
 
 **Key Features:**
-- 🎯 Multi-model ensemble
-- 📉 Performance visualization
-- 🔍 Feature extraction pipeline
+- ⚡ Async data fetching with rate-limiting & retries
+- 🚨 Anomaly detection with data-quality quarantine
+- 📊 Rolling correlations, forecasts & Power BI visuals
 
 </td>
 <td width="50%">
 
-### 💊 [Drug Classification Model](https://github.com/Kshitij191)
-**Python | XGBoost | SMOTE**
+### 🤖 [Automated Content Orchestration Engine](https://github.com/kshitij-dwivedi-1/Automated-Content-Orchestration-Engine)
+**Python | OpenAI API | SQLite | Typer | AsyncIO**
 
-Ensemble ML model for drug satisfaction prediction using WebMD data with imbalanced dataset handling.
+Async CLI service that generates SEO-optimized content via OpenAI, schedules recurring tasks using cron/interval expressions, and auto-publishes to WordPress, Twitter/X, and LinkedIn.
 
 **Key Features:**
-- ⚖️ SMOTE for class balancing
-- 🎯 F1-score optimization
-- 📊 Comprehensive EDA
+- 🗓️ YAML-driven cron & interval task scheduling
+- 🔍 SEO keyword scoring & content optimization
+- 📣 Multi-platform publishing with metrics & alerting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 📚 [Library Management System](https://github.com/kshitij-dwivedi-1/LibraryManagementSystem)
+**Java | JDBC | MySQL | Servlets**
+
+MVC architecture web application with role-based access control, full CRUD operations, and an automated fine calculation system.
+
+**Key Features:**
+- 🏗️ Clean MVC architecture
+- 🔄 Transaction management & automated reporting
+- 👤 Role-based access for admins and members
 
 </td>
 </tr>
